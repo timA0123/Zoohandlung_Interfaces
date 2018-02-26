@@ -19,7 +19,7 @@ public class Ente extends Tier implements Fliegen, Laufen, Schwimmen {
 
     @Override
     public int getAnzahlBeine() {
-       return anzahlBeine
+       return anzahlBeine;
     }
 
     @Override
